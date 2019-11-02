@@ -9,6 +9,9 @@ body {
 
 #sticky-footer {
   flex-shrink: none;
+}
+
+.bd-footer-links {
   list-style-position: inside;
 }
 
