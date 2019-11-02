@@ -11,7 +11,7 @@ body {
   flex-shrink: none;
 }
 
-.bd-footer-links {
+li {
   list-style-position: inside;
 }
 
